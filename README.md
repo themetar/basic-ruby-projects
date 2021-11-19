@@ -4,3 +4,4 @@ My solutions to the [Basic Ruby Projects](https://www.theodinproject.com/paths/f
 
 1. [Caesar Cipher](./caesar_cipher.rb)
 2. [Sub Strings](./substrings.rb)
+3. [Stock Picker](./stock_picker.rb)
