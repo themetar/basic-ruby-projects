@@ -6,3 +6,7 @@ My solutions to the [Basic Ruby Projects](https://www.theodinproject.com/paths/f
 2. [Sub Strings](./substrings.rb)
 3. [Stock Picker](./stock_picker.rb)
 4. [Bubble Sort](./bubble_sort.rb)
+
+## Tests
+
+Includes code tests with RSpec. Run `bundle install` and then run them with `bundle exec rspec`.
